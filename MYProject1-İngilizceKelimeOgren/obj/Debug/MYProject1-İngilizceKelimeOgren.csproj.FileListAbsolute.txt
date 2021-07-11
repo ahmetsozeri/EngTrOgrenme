@@ -1,0 +1,10 @@
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\bin\Debug\MYProject1-İngilizceKelimeOgren.exe.config
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\bin\Debug\MYProject1-İngilizceKelimeOgren.exe
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\bin\Debug\MYProject1-İngilizceKelimeOgren.pdb
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1-İngilizceKelimeOgren.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1_İngilizceKelimeOgren.Form1.resources
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1_İngilizceKelimeOgren.Properties.Resources.resources
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1-İngilizceKelimeOgren.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1-İngilizceKelimeOgren.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1-İngilizceKelimeOgren.exe
+C:\Users\ahmet\source\repos\MYProject1-İngilizceKelimeOgren\obj\Debug\MYProject1-İngilizceKelimeOgren.pdb
